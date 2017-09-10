@@ -1,4 +1,5 @@
 # AndroidTextRecognition
+![platform](https://img.shields.io/badge/platform-android-brightgreen.svg)
 
 Using the Google Cloud Vision API users are able to read text from images captured by the System Camera
 
